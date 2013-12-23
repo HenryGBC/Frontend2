@@ -100,6 +100,12 @@ $(function(){
 						$(elem).html(contTotal.down());
 					})
 			});
+			/*$('.posts').on('click', '.post', function(){
+				$(this).css({
+					'background' : 'red'
+				});
+
+			});*/
 
 
 });
